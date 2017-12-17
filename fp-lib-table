@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ExtraFootprints)(type Legacy)(uri "$(KIPRJMOD)/libraries/ExtraFootprints.mod")(options "")(descr ""))
+)
